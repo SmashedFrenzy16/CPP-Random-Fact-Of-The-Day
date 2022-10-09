@@ -3,4 +3,6 @@ This is a program made in C++ that prints out a different fact of the day that y
 ```
 ./dayfacts
 ```
+Or alternatively you can build the C++ project with `g++`, `clang++`, or with any other C++ project builder.
+
 Enjoy!
